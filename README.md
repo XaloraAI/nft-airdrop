@@ -1,4 +1,4 @@
-# Heurist Imaginaries NFT
+nft-airdrop# XaloraImaginaries NFT
 
 ## Development
 
